@@ -6,7 +6,7 @@ body {
     text-align: center;
   }
   
-  /* .menu {
+  .menu {
     width: 80%;
     background-color: burlywood;
     margin-left: auto;
@@ -16,7 +16,7 @@ body {
     padding-top: 20px;
     padding-bottom: 20px;
   }
-  
+/*   
   .item p {
     display: inline-block;
   }
